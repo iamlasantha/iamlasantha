@@ -1,10 +1,14 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Lasantha Wellalage</h1>
-<h3 align="center">Passionate IT Student | Tech Enthusiast | Lifelong Learner</h3>
+<div align="center">
+  
+[![Matrix Header](https://capsule-render.vercel.app/api?type=waving&color=0:001200,100:00ff00&height=200&section=header&text=HELLO%20WORLD!&fontSize=50&fontColor=00ff00&animation=fadeIn&fontAlignY=35&desc=@IAMLASANTHA%20&descSize=20&descAlignY=50)](https://github.com/iamlasantha)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamlasantha&label=Profile%20views&color=0e75b6&style=flat" alt="iamlasantha" /> </p>
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamlasantha" alt="iamlasantha" /></a> </p>
+[![Terminal](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=32&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+👋+I'm+Lasantha+Wellalage;Loading+Developer+Profile...;System+Ready...)](https://github.com/iamlasantha)
+
+[![Status](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&duration=2000&pause=1000&color=00FF00&center=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Passionate+IT+Student+%7C+Tech+Enthusiast;MIS+Undergraduate+%7C+Lifelong+Learner)](https://github.com/iamlasantha)
+
+</div>
 
 <table align="center">
 <tr border="none">
@@ -30,36 +34,49 @@
 </table>
 <hr>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/iamlasantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamlasantha" height="30" width="40" /></a>
-<a href="https://medium.com/@iamlasantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iamlasantha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@iamlasantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lasantha wellalage" height="30" width="40" /></a>
-</p>
-<hr>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<hr>
+<div align="center">
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/@iamlasantha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@iamlasantha" /></a></p>
-<hr>
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=iamlasantha&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamlasantha&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+### `> SYSTEM METRICS`
+[![Profile Views](https://komarev.com/ghpvc/?username=iamlasantha&label=PROFILE%20VISITS&style=for-the-badge&color=00ff00)](https://github.com/iamlasantha)
+[![GitHub Followers](https://img.shields.io/github/followers/iamlasantha?logo=github&style=for-the-badge&color=00ff00)](https://github.com/iamlasantha)
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamlasantha&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+### `> ACHIEVEMENT PROTOCOLS`
+[![Trophies](https://github-profile-trophy.vercel.app/?username=iamlasantha&theme=matrix&column=4&margin-w=15&margin-h=15)](https://github.com/iamlasantha)
+
+### `> TECH ARSENAL`
+[![Core Stack](https://skillicons.dev/icons?i=java,python,js,html,css,bootstrap&theme=dark)](https://github.com/iamlasantha)
+[![Tools](https://skillicons.dev/icons?i=git,github,mysql,mongodb,figma,flutter&theme=dark)](https://github.com/iamlasantha)
+
+### `> PERFORMANCE MATRIX`
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamlasantha&theme=chartreuse-dark&hide_border=false&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00" alt="GitHub Streak Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=iamlasantha&show_icons=true&theme=chartreuse-dark&hide_border=false&title_color=00ff00&text_color=00ff00&icon_color=00ff00" alt="GitHub Stats" />
+    </td>
+  </tr>
 </table>
 
+### `> CODE DISTRIBUTION`
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlasantha&layout=compact&theme=chartreuse-dark&hide_border=false&title_color=00ff00&text_color=00ff00)](https://github.com/iamlasantha)
+
+### `> NEURAL NETWORK ACTIVITY`
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamlasantha&theme=chartreuse-dark&hide_border=false&custom_title=Neural%20Network%20Activities&color=00ff00&line=00ff00&point=00ff00&area=true)](https://github.com/iamlasantha)
+
+### `> NEURAL LINKS`
+[![LinkedIn](https://img.shields.io/badge/Initialize_Neural_Link-%2300ff00.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/iamlasantha)
+[![Medium](https://img.shields.io/badge/Access_Knowledge_Base-%2300ff00.svg?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@iamlasantha)
+[![YouTube](https://img.shields.io/badge/View_Visual_Logs-%2300ff00.svg?style=for-the-badge&logo=youtube&logoColor=black)](https://youtube.com/@iamlasantha)
+
+</div>
+
+<div align="center">
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:001200,100:00ff00&height=100&section=footer)](https://github.com/iamlasantha)
+
+[![Termination](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Connection+Terminated...;Shutting+Down...;Goodbye...)](https://github.com/iamlasantha)
+
+</div>
