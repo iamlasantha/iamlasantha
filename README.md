@@ -4,10 +4,15 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 
-[![Terminal](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=32&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+👋+I'm+Lasantha+Wellalage;Loading+Developer+Profile...;System+Ready...)](https://github.com/iamlasantha)
+[![Terminal](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=32&pause=100&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+👋+I'm+Lasantha+Wellalage;Loading+Developer+Profile...;System+Ready...)](https://github.com/iamlasantha)
 
-[![Status](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&duration=2000&pause=1000&color=00FF00&center=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Passionate+IT+Student+%7C+Tech+Enthusiast;MIS+Undergraduate+%7C+Lifelong+Learner)](https://github.com/iamlasantha)
 
+</div>
+
+<!-- Digital Identity Card -->
+<div align="center">
+ 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=10&pause=1000&color=00FFB0&center=true&vCenter=true&random=false&width=580&lines=%3E+DevOps+%7C+Cloud+%7C+Linux;%3E+MIS+Undergraduate+%7C+Lifelong+Learn;%3E+Experts+were+once+beginners" alt="Titles"/>
 </div>
 
 <table align="center">
