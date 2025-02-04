@@ -82,6 +82,6 @@
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:001200,100:00ff00&height=100&section=footer)](https://github.com/iamlasantha)
 
-[![Termination](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Connection+Terminated...;Shutting+Down...;Goodbye...)](https://github.com/iamlasantha)
+
 
 </div>
