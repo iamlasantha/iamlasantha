@@ -1,87 +1,87 @@
 <div align="center">
   
-[![Matrix Header](https://capsule-render.vercel.app/api?type=waving&color=0:001200,100:00ff00&height=200&section=header&text=HELLO%20WORLD!&fontSize=50&fontColor=00ff00&animation=fadeIn&fontAlignY=35&desc=@IAMLASANTHA%20&descSize=20&descAlignY=50)](https://github.com/iamlasantha)
+# Lasantha Wellalage
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2EA043&center=true&vCenter=true&random=false&width=600&height=70&lines=MIS+Undergraduate;DevOps+Enthusiast;Linux+%26+Cloud+Explorer)](https://github.com/iamlasantha)
 
-[![Terminal](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=600&size=32&pause=100&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+👋+I'm+Lasantha+Wellalage;Loading+Developer+Profile...;System+Ready...)](https://github.com/iamlasantha)
-
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1hY3UzOWVjNm1uNTcwbzduMW82ZG1mZ2F1Ynl4ZjVwZjBmYXI2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="250px">
 
 </div>
 
-<!-- Digital Identity Card -->
-<div align="center">
- 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=10&pause=1000&color=00FFB0&center=true&vCenter=true&random=false&width=580&lines=%3E+DevOps+%7C+Cloud+%7C+Linux;%3E+MIS+Undergraduate+%7C+Lifelong+Learn;%3E+Experts+were+once+beginners" alt="Titles"/>
-</div>
+## About Me
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
+I'm a Management Information Systems undergraduate at NSBM Green University with a passion for DevOps, Linux environments, and cloud technologies. I'm dedicated to continuous learning and improving my technical skills to build efficient, scalable systems.
 
-- 🌱 I’m currently learning **Java**
+<table>
+<tr>
+<td width="60%">
 
-- 🧑‍🎓 I’m an Undergraduate at **NSBM**
-
-- 💬 Ask me about **Anything related to tech**
-
-- 📫 How to reach me **social.iamlasantha@gmail.com**
-
-- ⚡ Fun fact **Call me as Lasa**
+- 🎓 Pursuing MIS at **NSBM Green University**
+- 🌱 Currently learning **Java** and expanding DevOps skills
+- ☁️ Interested in cloud infrastructure and automation
+- 💻 Linux enthusiast focusing on system optimization
+- 📫 Reach me at: **social.iamlasantha@gmail.com**
 
 </td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
+<td width="40%">
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Developer Graphic" width="100%">
 </td>
 </tr>
 </table>
-<hr>
 
+## Tech Stack
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## GitHub Stats
 
 <div align="center">
 
-### `> SYSTEM METRICS`
-[![Profile Views](https://komarev.com/ghpvc/?username=iamlasantha&label=PROFILE%20VISITS&style=for-the-badge&color=00ff00)](https://github.com/iamlasantha)
-[![GitHub Followers](https://img.shields.io/github/followers/iamlasantha?logo=github&style=for-the-badge&color=00ff00)](https://github.com/iamlasantha)
-
-### `> ACHIEVEMENT PROTOCOLS`
-[![Trophies](https://github-profile-trophy.vercel.app/?username=iamlasantha&theme=matrix&column=4&margin-w=15&margin-h=15)](https://github.com/iamlasantha)
-
-### `> TECH ARSENAL`
-[![Core Stack](https://skillicons.dev/icons?i=java,python,js,html,css,bootstrap&theme=dark)](https://github.com/iamlasantha)
-[![Tools](https://skillicons.dev/icons?i=git,github,mysql,mongodb,figma,flutter&theme=dark)](https://github.com/iamlasantha)
-
-### `> PERFORMANCE MATRIX`
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamlasantha&theme=chartreuse-dark&hide_border=false&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=00ff00" alt="GitHub Streak Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=iamlasantha&show_icons=true&theme=chartreuse-dark&hide_border=false&title_color=00ff00&text_color=00ff00&icon_color=00ff00" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
-### `> CODE DISTRIBUTION`
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlasantha&layout=compact&theme=chartreuse-dark&hide_border=false&title_color=00ff00&text_color=00ff00)](https://github.com/iamlasantha)
-
-### `> NEURAL NETWORK ACTIVITY`
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamlasantha&theme=chartreuse-dark&hide_border=false&custom_title=Neural%20Network%20Activities&color=00ff00&line=00ff00&point=00ff00&area=true)](https://github.com/iamlasantha)
-
-### `> NEURAL LINKS`
-[![LinkedIn](https://img.shields.io/badge/Initialize_Neural_Link-%2300ff00.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/iamlasantha)
-[![Medium](https://img.shields.io/badge/Access_Knowledge_Base-%2300ff00.svg?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@iamlasantha)
-[![YouTube](https://img.shields.io/badge/View_Visual_Logs-%2300ff00.svg?style=for-the-badge&logo=youtube&logoColor=black)](https://youtube.com/@iamlasantha)
+<img src="https://github-readme-stats.vercel.app/api?username=iamlasantha&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamlasantha&theme=github-dark-blue&hide_border=false" alt="GitHub Streak Stats" width="49%" />
 
 </div>
 
 <div align="center">
+  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamlasantha&layout=compact&theme=github_dark&hide_border=false)](https://github.com/iamlasantha)
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:001200,100:00ff00&height=100&section=footer)](https://github.com/iamlasantha)
+</div>
 
+## Connect With Me
 
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamlasantha)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iamlasantha)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@iamlasantha)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamlasantha)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=iamlasantha&style=for-the-badge&color=2EA043)
 
 </div>
